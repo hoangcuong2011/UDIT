@@ -3,11 +3,11 @@ Given a bilingual dataset, the toolkit induces latent subdomain distributions fo
 
 To run the program: 
 
-1. Train bilingual language models with respect to latent domains
+Step 1: Train bilingual language models with respect to latent domains
 
 java -cp ./UDIT.jar:./trove-3.0.3.jar BilingualLMs.ProgramController [number_of_domains] [number_of_threads]
 
-2. Train full models
+Step 2: Train the full model
 
 java -cp ./UDIT.jar:./trove-3.0.3.jar cat.programs.SaveModel [number_of_domains] [number_of_threads]
 
