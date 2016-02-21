@@ -14,6 +14,7 @@ More detail about the domain induction algorithm can be found in:
 Adapting to All Domains at Once: Rewarding Domain Invariance in SMT
 
 Hoang Cuong, Khalil Sima'an and Ivan Titov
+
 Transactions of the Association for Computational Linguistics (TACL) 2016
 
 You are more than welcome to hack the code!
