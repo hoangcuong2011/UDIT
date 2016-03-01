@@ -26,7 +26,7 @@ You are more than welcome to hack the code!
 Note that our implementation partially relies on the alignment toolkit from http://www.seas.upenn.edu/~strctlrn/CAT/CAT.html
 It also heavily relies on the Kyoto Language Modeling Toolkit from http://www.phontron.com/kylm/
 
-The first author of the TACL paper (Hoang Cuong) would like to thanks the authors of their awesome toolkit, which makes his life much easier!
+The first author of the TACL paper (Hoang Cuong) would like to thank the authors of the awesome toolkits, which make his life much easier!
 
 
 
